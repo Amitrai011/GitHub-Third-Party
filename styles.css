@@ -2,9 +2,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  /* background-color: #181818; */
-  background-color: white;
-  color: black;
+  color: grey;
 }
 
 .container {
